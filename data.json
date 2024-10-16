@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuario de Ejemplo",
+      "email": "usuario@ejemplo.com",
+      "password": "contraseña_hasheada"
+    }
+  ]
+}
